@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/AddingDigits/static/css/main.417ca6bd.chunk.css",
-    "main.js": "/AddingDigits/static/js/main.3fd5cd87.chunk.js",
-    "main.js.map": "/AddingDigits/static/js/main.3fd5cd87.chunk.js.map",
-    "runtime-main.js": "/AddingDigits/static/js/runtime-main.9ba4bc21.js",
-    "runtime-main.js.map": "/AddingDigits/static/js/runtime-main.9ba4bc21.js.map",
-    "static/js/2.c3bb74cc.chunk.js": "/AddingDigits/static/js/2.c3bb74cc.chunk.js",
-    "static/js/2.c3bb74cc.chunk.js.map": "/AddingDigits/static/js/2.c3bb74cc.chunk.js.map",
-    "index.html": "/AddingDigits/index.html",
-    "static/css/main.417ca6bd.chunk.css.map": "/AddingDigits/static/css/main.417ca6bd.chunk.css.map",
-    "static/js/2.c3bb74cc.chunk.js.LICENSE.txt": "/AddingDigits/static/js/2.c3bb74cc.chunk.js.LICENSE.txt"
+    "main.css": "/adding-digits/static/css/main.417ca6bd.chunk.css",
+    "main.js": "/adding-digits/static/js/main.3fd5cd87.chunk.js",
+    "main.js.map": "/adding-digits/static/js/main.3fd5cd87.chunk.js.map",
+    "runtime-main.js": "/adding-digits/static/js/runtime-main.fb069754.js",
+    "runtime-main.js.map": "/adding-digits/static/js/runtime-main.fb069754.js.map",
+    "static/js/2.c3bb74cc.chunk.js": "/adding-digits/static/js/2.c3bb74cc.chunk.js",
+    "static/js/2.c3bb74cc.chunk.js.map": "/adding-digits/static/js/2.c3bb74cc.chunk.js.map",
+    "index.html": "/adding-digits/index.html",
+    "static/css/main.417ca6bd.chunk.css.map": "/adding-digits/static/css/main.417ca6bd.chunk.css.map",
+    "static/js/2.c3bb74cc.chunk.js.LICENSE.txt": "/adding-digits/static/js/2.c3bb74cc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ba4bc21.js",
+    "static/js/runtime-main.fb069754.js",
     "static/js/2.c3bb74cc.chunk.js",
     "static/css/main.417ca6bd.chunk.css",
     "static/js/main.3fd5cd87.chunk.js"
